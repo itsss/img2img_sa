@@ -2,6 +2,9 @@
 ![Python 2.7](https://img.shields.io/badge/python-2.7-green.svg)
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 # Unsupervised Image-to-Image Translation with Self-Attention Networks
+
+## This paper has been accepted as a REGULAR paper presented at [IEEE International Conference on BigComp 2020.](http://itsc.kr/2020/02/22/ieee-bigcomp-2020-unsupervised-img2img-sa-presentation/)
+
 This is the official PyTorch implementation of [Unsupervised Image-to-Image Translation with Self-Attention Networks](https://arxiv.org/abs/1901.08242).
 
 > **Unsupervised Image-to-Image Translation with Self-Attention Networks**<br>
